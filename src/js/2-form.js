@@ -1,5 +1,3 @@
-'use strict';
-
 let formData = { email: '', message: '' };
 
 const formFeedBack = document.querySelector('.feedback-form');
